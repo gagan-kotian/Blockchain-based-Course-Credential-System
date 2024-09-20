@@ -14,7 +14,7 @@ Index
 - [Features](#Features)
 - [Screenshots](#Screenshots)
 - [Installation](#installation)
-- [Environment Variables](#Environmentalvariables)
+- [Environment Variables](#EnvironmentVariables)
 - [Run Locally](#RunLocally)
 
 
@@ -102,7 +102,7 @@ For detailed instructions on using Metamask, refer to the Metamask User Guide.
 
 ```
     
-## Environment Variables
+## EnvironmentVariables
 
 To run this project, you will need to add the following environment variables to your .env file
 
@@ -116,7 +116,7 @@ PRIVATE_KEY=ADD_WALLET_PRIVATE_KEY_HERE
 
 
 
-## Run Locally
+## RunLocally
 
 Clone the project
 
