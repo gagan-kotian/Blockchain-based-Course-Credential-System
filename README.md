@@ -12,10 +12,12 @@ This decentralized application allows educational institutions to issue and veri
 
 Index
 - [Features](#Features)
-- [Installation](#installation)
-- [Run Locally](##RunLocally)
-- [Environment Variables](##Environmentalvariables)
 - [Screenshots](#Screenshots)
+- [Installation](#installation)
+- [Environment Variables](##Environmentalvariables)
+- [Run Locally](##RunLocally)
+
+
 
 # Features
 
