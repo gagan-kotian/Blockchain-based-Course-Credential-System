@@ -121,7 +121,7 @@ PRIVATE_KEY=ADD_WALLET_PRIVATE_KEY_HERE
 Clone the project
 
 ```bash
-  git clone https://github.com/gagan-kotian/Blockchain-based-Electoral-Bond-Web-App.git
+  git clone https://github.com/gagan-kotian/Blockchain-based-Course-Credential-System.git
 
 ```
 
